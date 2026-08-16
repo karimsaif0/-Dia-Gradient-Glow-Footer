@@ -17,6 +17,10 @@ A production-ready Framer gradient glow component with curated presets, multiple
 
 ## Framer
 
+**Live on the Framer Marketplace:**
+
+https://www.framer.com/community/marketplace/components/dia-gradient-footer/
+
 Import `KarimSaifGradient.tsx` into a Framer project as a Code Component.
 
 ## Author
